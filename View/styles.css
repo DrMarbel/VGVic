@@ -1,3 +1,15 @@
+body{
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+
 .hidden{
     display: none;
+}
+
+form{
+    display: inline-block;
+    background-color: black;
+    color: white;
 }
